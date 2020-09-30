@@ -30,7 +30,6 @@
 <br />
 <br />
 
---
 
 [facebook]: https://www.facebook.com/simanta.baral
 [twitter]: https://twitter.com/baral_barl
