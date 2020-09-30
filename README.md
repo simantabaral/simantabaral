@@ -34,9 +34,14 @@
 
 <br/>
 <br/>
+
 ### Github Statistics:
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=simantabaral&hide=contribs,prs&show_icons=true&theme=green-white)
+
+### Mostly Used Languages:
+
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=simantabaral&layout=compact&theme=green-white)](https://github.com/simantabaral)
 
 
 
